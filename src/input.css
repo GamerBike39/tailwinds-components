@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer utilities{
+.polygonBtn{
+    clip-path: polygon(22% 0%, 100% 0%, 80% 100%, 0% 100%);
+}
+}
