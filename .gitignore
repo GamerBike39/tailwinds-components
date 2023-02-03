@@ -9,6 +9,8 @@
 .parcel-cache
 yarn.lock
 yarn-error.log
+package-lock.json
+package.json
 types/generated/*.d.ts
 
 .turbo
