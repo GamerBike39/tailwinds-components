@@ -1,5 +1,5 @@
-# tailwinds-components
+# tailwinds-components-collection
 
-a directory of several Tailwind components, just requires installation, no 3rd party css
-constant update
+just requires installation, no 3rd party css
+
 
